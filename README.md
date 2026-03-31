@@ -4,8 +4,8 @@
 **Course:** CSE0001 – Digital Literacy 
 
 ## Student Details 
-- Name : Shashwat Srivastava
-- Registration number: 25BCE11121
+- Name : Divyansh Shishodia
+- Registration number: 25BCE11134
 - CSE [CORE] 1st year
 
 ## Project Overview
@@ -15,7 +15,7 @@ The project is divided into five modules (tasks), each addressing a key area of 
 
 Level Up Your Digital Life: A Student’s Guide  Hey Batchmates! As your Digital Ambassador, I’ve put together this portfolio to help us all master the web. From fixing up your professional profiles to staying safe online, consider this your roadmap to a better digital presence. 
 
-Hey Batchmates, I’m Shashwat!
+Hey Batchmates, I’m Divyansh!
 Student Digital Ambassador | VIT Bhopal (2025-2029)
 
 Let’s be real—starting an engineering degree is a massive jump. We go from scrolling Instagram to suddenly needing a GitHub, a LinkedIn, and a deep understanding of C++ and DSA. As your Digital Ambassador, I’ve put this portfolio together to show you that "tech-savvy" isn't just a buzzword; it’s about how we build our future.
@@ -23,16 +23,16 @@ This isn't just a folder of assignments. It’s my personal roadmap for how I’
 
 Module 1: More Than Just Browsing
 I made a visual guide because I realized "Digital Literacy" isn't just knowing how to use Google. It’s about knowing which tools actually save you time in the hostel and which ones make your projects look professional. I used Canva to break down the stuff that actually matters for our batch.
-Link: https://canva.link/gf4vbh37svmkrzo
+Link:https://www.canva.com/design/DAHFgBebeNY/-SAixDFT1r2xf483xJYlhQ/edit
 
 Module 2: Setting Up My Digital Home
 I finally set up my "Big Three": GitHub, LinkedIn, and Kaggle. I realized these aren't just accounts—they’re like a digital diary of our progress from now until 2029. I’ve started my GitHub README to track my coding journey from day one.
-🔗 GitHub: https://github.com/shashwat-srivastava07
+🔗 GitHub: https://github.com/divyanshshishodia03-cmd
 
 Module 3: Getting My Hands Dirty with Code
 I dived into HackerRank and Google Forms. Solving those first few logic problems was a wake-up call for my DSA prep! I also built a quick quiz for you guys—not to test you, but to see where we all stand so I can share better resources.
-[Click here to test your digital awareness] https://docs.google.com/forms/d/e/1FAIpQLSeaRp4iyYMeWZSyWS3nnTg9OH3SsOIZtOqM2XJyXoORjfqRCw/viewform?usp=publish-editor
-
+[Click here to test your digital awareness] 
+https://docs.google.com/forms/d/e/1FAIpQLSfdzIXsTOKHH4uXUot3eU7Q5BPw4pSN-0YxuPtoKl9jbVk8qA/viewform?usp=dialog
 Module 4: The "Professional" Inbox
 We’ve all thought about sending a "text-style" email to a professor, but I learned the hard way that a professional tone goes a long way. I’ve drafted templates for internship hits and leave requests that actually get replies. Plus, I made a "Do’s & Don’ts" list for social media—because your weekend fun shouldn’t haunt your Monday interviews.
 
